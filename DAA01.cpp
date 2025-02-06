@@ -1,3 +1,12 @@
+/*Write a program for Iterative and Recursive Binary Search and verify the time complexity. 
+Write a program to perform quick/merge sort using Divide and Conquer strategy and verify the time complexity.
+
+a.    Accept Mobile user information (e.g. MobileNo, Name, BillAmount etc.).
+b.    Display the data in descending order of MobileNo. (Recursive and Non-recursive Quick Sort)
+c.    Display the data in ascending order of MobileNo. (Merge Sort)
+d.    Display the data in ascending order of BillAmount (Heap Sort)
+e.    Display details for Mobileno specified by user (Linear Search and Recursive and Non-recursive Binary Search)
+f.    Display the number of passes and comparisons for different test cases (Worst, Average, Best case).*/
 #include <iostream>
 using namespace std;
 
