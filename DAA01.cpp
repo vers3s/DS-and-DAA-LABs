@@ -1,4 +1,6 @@
-/*Write a program for Iterative and Recursive Binary Search and verify the time complexity. 
+/*
+==================PROBLEM STATEMENT=============================================================
+Write a program for Iterative and Recursive Binary Search and verify the time complexity. 
 Write a program to perform quick/merge sort using Divide and Conquer strategy and verify the time complexity.
 
 a.    Accept Mobile user information (e.g. MobileNo, Name, BillAmount etc.).
